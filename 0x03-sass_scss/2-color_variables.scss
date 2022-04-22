@@ -1,0 +1,11 @@
+/* Sass with 2 variables */
+$txt_c: #3D3D3D
+$bckg_c: #6D6D6D
+
+body, p {
+	color: $txt_c;
+}
+
+body, h2 {
+	background-color: $bckg_c;
+}
