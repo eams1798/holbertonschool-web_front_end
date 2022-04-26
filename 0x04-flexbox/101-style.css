@@ -1,0 +1,51 @@
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: baseline;
+	position: relative;
+	top: 30px;
+}
+
+.box {
+	font-family: "Calisto MT";
+	position: relative;
+	color: white;
+    display: flex;
+    justify-content: center;
+	align-items: center;
+}
+
+.box1, .box5 {
+	width: 100px;
+	height: 80px;
+	font-size: 20px;
+}
+
+.box1 {
+	background-color: #1ece6c;
+}
+
+.box5 {
+	background-color: #ea7b0f;
+}
+
+.box2, .box4 {
+	width: 150px;
+	height: 120px;
+	font-size: 37.5px;
+}
+
+.box2 {
+	background-color: #2d98de;
+}
+
+.box4 {
+	background-color: #9d55b9;
+}
+
+.box3 {
+	width: 300px;
+	height: 200px;
+	background-color: #344a61;
+	font-size: 100px;
+}
